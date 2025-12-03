@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.4.13-SNAPSHOT</version>
+		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>VoucherManagementSystem</artifactId>
+	<groupId>com.javausergroup</groupId>
+	<artifactId>JavaUserGroupEvents</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>VoucherManagementSystem</name>
+	<name>JavaUserGroupEvents</name>
 	<description>single project that demonstrates the skills interviewers look for — REST APIs, relational data modeling, authentication, layered design, pagination, validation, and clean code — this Voucher Management System (VMS) is perfect. Build it, understand it end-to-end, and you’ll be able to confidently explain architecture, trade-offs, and design decisions during interviews.</description>
 	<url/>
 	<licenses>
